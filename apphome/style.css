@@ -78,7 +78,7 @@ ul.nav-btn > li {
     height: 100%;
     opacity: 0.2;    
     /* background-image: conic-gradient(at left center, #eab308, #a855f7, #3b82f6); */
-    background-image: url('../main-sec-img.png');     
+    background-image: url('main-sec-img.png');     
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
